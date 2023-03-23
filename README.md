@@ -1,3 +1,5 @@
+From https://gist.github.com/gaearon/9d6b8eddc7f5e647a054d7b333434ef6
+
 # Next.js client-only SPA example
 
 Made this example to show how to use Next.js router for a 100% SPA (no JS server) app.
